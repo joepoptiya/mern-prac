@@ -1,0 +1,19 @@
+{
+  "name": "mern-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joepoptiya/mern-prac.git"
+  },
+  "author": "Joe Poptiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joepoptiya/mern-prac/issues"
+  },
+  "homepage": "https://github.com/joepoptiya/mern-prac#readme"
+}
